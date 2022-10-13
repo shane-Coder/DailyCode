@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        /*while(head!=NULL and head->val==val)
+        while(head!=NULL and head->val==val)
             head = head->next;
         ListNode *curr = head;
         while(curr!=NULL and curr->next!=NULL){
@@ -22,16 +22,16 @@ public:
                 curr = curr->next;
             }
         }
-        return head;*/
+        return head;
         
         
         //Full recursion
-        if(head==NULL)
+        /*if(head==NULL)
             return NULL;
         head->next = removeElements(head->next, val);
         if(head->val==val)
             return head->next;
         else
-            return head;
+            return head;*/
     }
 };
