@@ -24,4 +24,16 @@ __Highlights:__
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/shane-Coder/DailyCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Array
+|  |
+| ------- |
+| [1923-sentence-similarity-iii](https://github.com/shane-Coder/DailyCode/tree/master/1923-sentence-similarity-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [1923-sentence-similarity-iii](https://github.com/shane-Coder/DailyCode/tree/master/1923-sentence-similarity-iii) |
+## String
+|  |
+| ------- |
+| [1923-sentence-similarity-iii](https://github.com/shane-Coder/DailyCode/tree/master/1923-sentence-similarity-iii) |
 <!---LeetCode Topics End-->
