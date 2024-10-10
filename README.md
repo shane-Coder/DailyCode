@@ -28,6 +28,7 @@ __Highlights:__
 ## Array
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/shane-Coder/DailyCode/tree/master/1002-maximum-width-ramp) |
 | [1923-sentence-similarity-iii](https://github.com/shane-Coder/DailyCode/tree/master/1923-sentence-similarity-iii) |
 ## Two Pointers
 |  |
@@ -41,5 +42,10 @@ __Highlights:__
 ## Stack
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/shane-Coder/DailyCode/tree/master/1002-maximum-width-ramp) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shane-Coder/DailyCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/shane-Coder/DailyCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
