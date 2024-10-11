@@ -30,6 +30,7 @@ __Highlights:__
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/shane-Coder/DailyCode/tree/master/1002-maximum-width-ramp) |
 | [1923-sentence-similarity-iii](https://github.com/shane-Coder/DailyCode/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shane-Coder/DailyCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,12 @@ __Highlights:__
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/shane-Coder/DailyCode/tree/master/1002-maximum-width-ramp) |
+## Hash Table
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shane-Coder/DailyCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shane-Coder/DailyCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
