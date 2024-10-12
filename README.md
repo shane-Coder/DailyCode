@@ -31,10 +31,12 @@ __Highlights:__
 | [1002-maximum-width-ramp](https://github.com/shane-Coder/DailyCode/tree/master/1002-maximum-width-ramp) |
 | [1923-sentence-similarity-iii](https://github.com/shane-Coder/DailyCode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shane-Coder/DailyCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shane-Coder/DailyCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
 | ------- |
 | [1923-sentence-similarity-iii](https://github.com/shane-Coder/DailyCode/tree/master/1923-sentence-similarity-iii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shane-Coder/DailyCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -57,4 +59,17 @@ __Highlights:__
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shane-Coder/DailyCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shane-Coder/DailyCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Greedy
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shane-Coder/DailyCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Sorting
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shane-Coder/DailyCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shane-Coder/DailyCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
