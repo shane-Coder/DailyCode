@@ -15,6 +15,7 @@ __Highlights:__
 ## Math
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/shane-Coder/DailyCode/tree/master/0670-maximum-swap) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/shane-Coder/DailyCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
@@ -71,6 +72,7 @@ __Highlights:__
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shane-Coder/DailyCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/shane-Coder/DailyCode/tree/master/0670-maximum-swap) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shane-Coder/DailyCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shane-Coder/DailyCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/shane-Coder/DailyCode/tree/master/3195-separate-black-and-white-balls) |
